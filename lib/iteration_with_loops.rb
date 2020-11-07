@@ -1,8 +1,7 @@
 def find_min_in_nested_arrays(src)
   array_of_daiy_temperatures = 
   [
-    [1,2,3],
-    [1
+    [1,
   ]
   
   daily_temps = []
