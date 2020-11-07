@@ -9,7 +9,7 @@ def find_min_in_nested_arrays(src)
     find_min = 
     while element_index < array_of_daiy_temperatures[row_index].count do
       if array_of_daiy_temperatures[row_index][element_index].length > find_min.length
-          find_min = array_of_daiy_temperatures[row_index][element_index]
+          find_min =  array_of_daiy_temperatures[row_index][element_index]
         end
         element_index += 1
       end
